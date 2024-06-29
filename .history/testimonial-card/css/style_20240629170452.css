@@ -75,21 +75,14 @@ padding: 24px;
   gap: 1px;
 }
 .testimonial-card-author-name
-{ font-weight: 600;
-  font-size: 18px;
-  line-height: 28px;
-  color: #171717;
+{
 
 }
-.testimonial-card-author-username{ font-weight: 400;
-  font-size: 14px;
-  line-height: 20px;
+.testimonial-card-author-username{
 
 }
 
 .testimonial-card-author img{
-  width: 48px;
-  height: 48px;
-  border-radius:50%
+  width: ;
 
 }

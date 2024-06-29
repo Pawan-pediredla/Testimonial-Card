@@ -1,0 +1,14 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+.container{
+  min-height: ;
+  display:flex
+
+}
+.testimonial-card{
+  display:flex;
+  flex-direction: column;
+  gap: ;
+}

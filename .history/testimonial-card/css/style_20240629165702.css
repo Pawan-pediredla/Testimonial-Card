@@ -1,0 +1,17 @@
+*{
+  box-sizing:border-box;
+  margin: 0;
+}
+.container{
+  min-height: ;
+  display:flex;
+  justify-content: center;
+  align-items: flex-start;
+
+}
+.testimonial-card{
+  display:flex;
+  flex-direction: column;
+  gap: 16px;
+}
+./testimonial-card-author
